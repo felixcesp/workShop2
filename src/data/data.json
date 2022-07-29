@@ -1,0 +1,28 @@
+{
+    "usuarios": [
+      {
+        "nombre": "Carlos Andres Nava",
+        "password": 4567,
+        "correo": "carlos2@gmail.com",
+        "telefono": 2078965,
+        "id": 1,
+        "fotoperfil": "https://www.sage.com/es-es/blog/wp-content/uploads/sites/8/2017/12/ThinkstockPhotos-520879628.jpg",
+        "seguidores": "10",
+        "likes": "30"
+
+        
+    },
+      {
+        "nombre": "Yudith Karina Villasmil",
+        "password": 3245,
+        "correo": "yudith.leon@agileinnova.org",
+        "telefono": 2098968,
+        "id": 2,
+        "fotoperfil": "https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2018/07/25/5fa43a4a54014.jpeg",
+        "seguidores": "20",
+        "likes": "30",
+        "detalles": " Lorem ipsum dolor sit amet consectetur adipiscing elit Facilisi ullamcorper aliquam augue fermentum vel risus  Tellus vestibulum magnis ut elit, vitae mattis sapien. Laoreet nam"
+      }
+      
+    ]
+}
