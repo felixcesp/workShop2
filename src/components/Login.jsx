@@ -26,7 +26,7 @@ const Login = () => {
         })
 
     }
-    const url = "http://localhost:3005/usuarios/"
+    const url = "http://localhost:4000/usuarios"
     const obtenerData = async() =>{
         const respuesta = axios.get(url)
         return respuesta;

@@ -2,9 +2,9 @@
     "usuarios": [
       {
         "name": "Carlos Andres Nava",
-        "password": 4567,
+        "password":"4567",
         "email": "carlos2@gmail.com",
-        "phone": 2078965,
+        "phone": "2078965",
         "fotoperfil": "https://www.sage.com/es-es/blog/wp-content/uploads/sites/8/2017/12/ThinkstockPhotos-520879628.jpg",
         "seguidores": "10",
         "likes": "30",
@@ -14,9 +14,9 @@
     },
       {
         "name": "Yudith Karina Villasmil",
-        "password": 3245,
+        "password":"3245",
         "email": "yudith.leon@agileinnova.org",
-        "phone": 2098968,
+        "phone": "2098968",
         "fotoperfil": "https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2018/07/25/5fa43a4a54014.jpeg",
         "seguidores": "20",
         "likes": "30",
