@@ -40,7 +40,7 @@ const Login = () => {
     
     const navigate = useNavigate();
     const navigateToRegister = () =>{
-      navigate('/Register');
+      navigate('/home');
   };
 
   return (

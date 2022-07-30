@@ -214,9 +214,9 @@ export const LoginText3Styled = styled.span`
 `;
 
 export const LinkSignUpStyled = styled.span`
-    color: #A2C3FC 
+    color: #A2C3FC ;
    
-`;
+`
 
 
 export const NavStyledHome = styled.div`
@@ -228,5 +228,87 @@ export const PruebaStyled = styled.div`
 `;
 
 export const FondoHome = styled.div`
- position: absolute
-`;
+ position: absolute;
+`
+
+export const NavBarStyled = styled.nav`
+margin:auto;
+    height: 40px;
+    width:600px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    color:whitesmoke;
+    color:white;
+    background-color: lightblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius:30px;
+   
+`
+export const FirstCont= styled.div`
+text-align:center;
+margin:auto;
+display:flex;
+flex-direction:column;
+height:100%;
+width:70%;
+row-gap:20px;
+`
+
+export const FirstImg= styled.img`
+width:800px;
+height:500px;
+margin:auto;
+border-radius:10px;
+background-color:lightgreen;
+`
+export const FirstBu= styled.button`
+margin-top:10px;
+width:800px;
+height:50px;
+margin:auto;
+background-color:lightblue;
+border-radius:30px;
+:hover{
+    background-color:lightcoral;
+    color:white;
+}
+`
+export const FirstCont2= styled.div`
+text-align:center;
+margin:auto;
+display:flex;
+flex-direction:column;
+height:70%;
+width:70%;
+row-gap:20px;
+`
+export const FirstImg2= styled.img`
+width:600px;
+height:250px;
+margin:auto;
+border-radius:10px;
+background-color:lightgreen;
+`
+export const FirstImg3= styled.img`
+width:600px;
+height:600px;
+margin:auto;
+border-radius:10px;
+background-color:lightgreen;
+`
+export const FirstImg4= styled.img`
+width:600px;
+height:150px;
+margin:auto;
+border-radius:10px;
+background-color:lightgreen;
+`
+export const FirsTitle4= styled.p`
+width:600px;
+height:100px;
+margin:auto;
+border-radius:10px;
+background-color:lightgreen;
+`
